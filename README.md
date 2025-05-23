@@ -4,9 +4,6 @@ This repository contains the MATLAB code and data accompanying the research pape
 **Authors:** Peng Shi, Zixuan Wang, Vu Ngoc Viet Hoang*, Wei Zhao, Hang Xie, Raj Kiran, and Jian Yang  
 **Corresponding Author:** Vu Ngoc Viet Hoang ([vnvhoang2610@gmail.com](mailto:vnvhoang2610@gmail.com))  
 
-*(Please cite the paper if you use this code or data in your research.)*
-
-
 ## Overview
 
 This repository provides the MATLAB scripts used to:
