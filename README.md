@@ -68,15 +68,11 @@ This script trains an Artificial Neural Network model using data from an Excel f
 
 The `Load_Trained_ANN_model.m` script uses a pre-trained ANN model (e.g., `BR_Uniaxial_U.mat`) to predict postbuckling coefficients and plot the load-deflection curve.
 
-**To use:**
 1.  Ensure the trained `.mat` model file (e.g., `BR_Uniaxial_U.mat`) is in your MATLAB path.
 2.  Open `Load_Trained_ANN_model.m`.
 3.  Modify `var1` through `var8` at the top of the script with your desired input parameters.
 4.  Run the script (`F5`).
-
-**Output:**
-*   The script will predict `Lambda0`, `Lambda1`, and `Lambda2`.
-*   A plot of the predicted normalized load-deflection curve ($\overline{\lambda}$ vs $\overline{W}$) will be displayed.
+5.  The script will predict `Lambda0`, `Lambda1`, and `Lambda2`. A plot of the predicted normalized load-deflection curve ($\overline{\lambda}$ vs $\overline{W}$) will be displayed.
 
 ### Citation
 
