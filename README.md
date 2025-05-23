@@ -80,3 +80,17 @@ The `Load_Trained_ANN_model.m` script uses a pre-trained ANN model (e.g., `BR_Un
 **Output:**
 *   The script will predict `Lambda0`, `Lambda1`, and `Lambda2`.
 *   A plot of the predicted normalized load-deflection curve ($\overline{\lambda}$ vs $\overline{W}$) will be displayed.
+
+### Citation
+
+If you use the code, data, or concepts from this work in your research, please cite the following paper:
+
+> **Authors**: Peng Shi, Zixuan Wang, Vu Ngoc Viet Hoang*, Wei Zhao, Hang Xie, Raj Kiran, and Jian Yang
+>
+> **Title**: Analytical and neural network-based approaches for mechanical postbuckling analysis of simply-supported functionally graded graphene origami-enabled auxetic metamaterial plates
+>
+> **Journal**: 
+>
+> **DOI**: 
+>
+> **Year**: 
