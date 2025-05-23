@@ -24,7 +24,7 @@ The aim is to demonstrate the effectiveness of an integrated analytical-ANN appr
 
 This script calculates and plots the postbuckling load-deflection curve for a given set of input parameters.
 
-1.  Open `Main_FGOEAM_Plate.m` in MATLAB.
+1.  Open `Main_FG_GOEAM_Plate.m` in MATLAB.
 2.  Modify the input parameters (`var1` to `var8`) in the "Input Parameters" section as required for your analysis.
 3.  Select the loading case (Uniaxial or Biaxial Compression) by uncommenting the appropriate `Chi1` and `Chi2` lines.
 4.  Adjust material distribution patterns within `GOri_distribution.m`
