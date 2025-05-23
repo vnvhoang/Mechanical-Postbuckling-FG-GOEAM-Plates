@@ -1,8 +1,9 @@
-This repository contains the MATLAB code and data accompanying the research paper:
+This repository contains the MATLAB code and data accompanying the research paper:  
 
-**Title:** Analytical and neural network-based approaches for mechanical postbuckling analysis of simply-supported functionally graded graphene origami-enabled auxetic metamaterial plates
-**Authors:** Peng Shi, Zixuan Wang, Vu Ngoc Viet Hoang*, Wei Zhao, Hang Xie, Raj Kiran, and Jian Yang
-**Corresponding Author:** Vu Ngoc Viet Hoang ([vnvhoang2610@gmail.com](mailto:vnvhoang2610@gmail.com))
+**Title:** Analytical and neural network-based approaches for mechanical postbuckling analysis of simply-supported functionally graded graphene origami-enabled auxetic metamaterial plates  
+**Authors:** Peng Shi, Zixuan Wang, Vu Ngoc Viet Hoang*, Wei Zhao, Hang Xie, Raj Kiran, and Jian Yang  
+**Corresponding Author:** Vu Ngoc Viet Hoang ([vnvhoang2610@gmail.com](mailto:vnvhoang2610@gmail.com))  
+**Date (Code):** March 2025
 
 *(Please cite the paper if you use this code or data in your research.)*
 
