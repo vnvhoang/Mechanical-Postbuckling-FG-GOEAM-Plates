@@ -21,17 +21,6 @@ The aim is to demonstrate the effectiveness of an integrated analytical-ANN appr
 *   Calculation and plotting of normalized load-deflection curves ($\overline{\lambda}$ vs $\overline{W}$).
 *   Scripts for training ANN models to predict the three postbuckling coefficients.
 
-
-## Installation
-
-1.  Clone the repository:
-    ```bash
-    git clone https://github.com/vnvhoang/Mechanical-Postbuckling-FG-GOEAM-Plates.git
-    ```
-2.  Navigate to the cloned directory in MATLAB.
-3.  Ensure all `.m` files are in the MATLAB path or the current working directory.
-
-
 ## Dataset Description
 
 *   `Uniaxial_X.xlsx`: This Excel file contains the training data for X-WGr plate under uniaxial compression.
