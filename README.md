@@ -20,7 +20,7 @@ The aim is to demonstrate the effectiveness of an integrated analytical-ANN appr
 
 ## Usage Instructions
 
-### 1. Analytical Solution (`Main_FGOEAM_Plate.m`)
+### 1. Analytical Solution (`Main_FG_GOEAM_Plate.m`)
 
 This script calculates and plots the postbuckling load-deflection curve for a given set of input parameters.
 
