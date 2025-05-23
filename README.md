@@ -47,7 +47,7 @@ You would typically need to wrap the core calculation logic of `Main_FGOEAM_Plat
         7.  `var7`: Kerr foundation parameter (Ksn)
         8.  `var8`: Kerr foundation parameter (Kln)
     *   **Columns 9-11 (Targets):** These are the non-dimensional postbuckling coefficients derived from the analytical solution:
-        1.  `lambda_0` (Normalized critical buckling load)
+        1.  `lambda_0` (Non-dimensional critical buckling load)
         2.  `lambda_1` (Coefficient of the linear term of normalized deflection)
         3.  `lambda_2` (Coefficient of the quadratic term of normalized deflection)
 
