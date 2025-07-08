@@ -82,8 +82,8 @@ If you use the code, data, or concepts from this work in your research, please c
 >
 > **Title**: Analytical and neural network-based approaches for mechanical postbuckling analysis of simply-supported functionally graded graphene origami-enabled auxetic metamaterial plates
 >
-> **Journal**: 
+> **Journal**: Thin-Walled Structures
 >
-> **DOI**: 
+> **DOI**: https://doi.org/10.1016/j.tws.2025.113606
 >
-> **Year**: 
+> **Year**: 2025
